@@ -7,12 +7,12 @@
 
 # Site settings
 title: LcloudPro
-email: Latheeshrooman@gmail.com
+email: lcloudprok@gmail.com
 description: "We are passionate about learn technologies and share knowledge"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Lcloudpro.github.io/New-site1/" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: Lcloudpro
+github_username:  Lcloudpro
 
 # Build settings
 markdown: kramdown
@@ -27,4 +27,4 @@ defaults:
     values:
       layout: "post"
       author: "Latheesh"
-      category: "jekyll"
+      category: "Latheesh"
